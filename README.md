@@ -71,15 +71,21 @@ src/
 
 ## 📸 Screenshots
 
-| Login | Search Flights | Available Flights |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| Sign In | Sign Up |
+|---|---|
+| ![Sign In](screenshots/sign%20in.jpeg) | ![Sign Up](screenshots/sign%20up.jpeg) |
 
-| Passenger Details | Booking Successful | E-Ticket / Receipt |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| Select Cities | Cities Confirmed |
+|---|---|
+| ![Select Cities](screenshots/select%20cities.jpeg) | ![Cities Confirmed](screenshots/cities%20confirm.jpeg) |
 
----
+| Available Flights | Passenger Details |
+|---|---|
+| ![Flight Details](screenshots/Flight%20detail.jpeg) | ![Passenger Details](screenshots/Passenger%20detail.jpeg) |
+
+| Booking Successful | E-Ticket / Receipt |
+|---|---|
+| ![Booking Successful](screenshots/Booking%20succes.jpeg) | ![Receipt](screenshots/Receipt.jpeg) |
 
 ## 💡 Future Improvements
 
