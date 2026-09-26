@@ -99,4 +99,4 @@ src/
 
 ## 👤 Author
 
-Built by **[Your Name]** as a personal Java OOP practice project.
+Built by Qurat Ul ain as a personal Java OOP practice project.
